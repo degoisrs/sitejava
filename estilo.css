@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(176, 240, 58);
+}
+.titulo1 {
+    color: blue; 
+    text-align: center ;}
+.paragrafo1 {
+    font-size: 25px;
+text-align: justify;}
+.lista {
+    margin-bottom: 10px;
+}
+.futebol {
+    border-radius: 10px;
+    width: 320px;
+    height: 300px;
+}
+.tabela1 {
+  border: 2px solid #1298e6;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+.tabela1 th,
+.tabela1 td {
+  border: 1px solid #1298e6;
+  padding: 10px;
+}
+
+.tabela1 img {
+  border-radius: 8px;
+  border: 1px solid #1298e6;
+}
+.link1:hover{
+color: crimson;
+}
